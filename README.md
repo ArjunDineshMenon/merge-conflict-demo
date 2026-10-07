@@ -1,3 +1,3 @@
 # merge-conflict-demo
 
-Welcome to Cloud and DevOps Training
+Welcome to AWS Cloud and DevOps Training
